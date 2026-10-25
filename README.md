@@ -18,7 +18,6 @@
 **(중요! 기존 spotlight이 아닌 꼭 새 spotlight로 실행해야 합니다!!!!!)**
 5. ```git --version```을 새 터미널에서 실행
 (만일 ```git version 2.47.0``` 출력 시 성공{꼭 해당 버전이 아니어도 됨.}, ```command not found``` 출력 시 spotlight 재부팅)
----
 ## Git과 Github를 연결해봅시다.
 ### [ 나는 Window OS를 사용합니다. ]
 1. ```terminal``` 또는 ```터미널```을 윈도우 검색창에 검색합니다.  
@@ -48,7 +47,6 @@
 4. 다 완료되었다면 기존 spotlight 종료 후, 새 spotlight 실행  
 **(중요! 기존 spotlight이 아닌 꼭 새 spotlight로 실행해야 합니다!!!!!)**
 5.  ```git --version```을 새 터미널에서 실행
----
 ## Git 초기실행을 마쳐봅시다.
 1. ```git config --global user.name "username"``` 입력  
 **(중요!, ```username```을 본인 github username으로 대체하세요. 쌍따옴표는 그대로 유지.)**
